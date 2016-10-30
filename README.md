@@ -9,5 +9,5 @@ Use:
 Offline:
 <code>&lt;link rel="stylesheet" type="text/css" href="FullCanvas.min.css"/></code>
 
-~~Online:
-<code>&lt;link rel="stylesheet" type="text/css" href="http://wisdomunit.tk/libhost/FullCanvas.min.css"/></code>~~
+Online:
+<code>&lt;link rel="stylesheet" type="text/css" href="https://www.wisdomunit.net/cdn/FullCanvas.min.css"/></code>
